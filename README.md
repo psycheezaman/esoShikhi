@@ -39,4 +39,4 @@ Course: Educational Web Design and Development Lab
 Academic Level: 3rd Year, 2nd Semester
 Project Type: Academic Web Development Project
 
-**DB of this projected are also added.**
+**DB of this project are also added.**
