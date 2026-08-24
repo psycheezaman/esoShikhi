@@ -1,11 +1,10 @@
-esoShikhi
+**esoShikhi**
 
-"esoShikhi" is a web-based educational platform designed for secondary-level students, teachers, administrations and guardians. The main goal of the platform is to provide a centralized digital learning environment where students can access educational materials, teachers can share academic resources, and guardians can monitor students' academic progress.
-The platform provides separate user portals to support academic communication, learning material sharing, notice management, and student result monitoring. It was developed as an academic project for the Educational Web Design and Development Lab course during the 3rd Year, 2nd Semester.
+"esoShikhi" is a web-based educational platform designed for secondary-level students, teachers, administrators and guardians. The main goal of the platform is to provide a centralized digital learning environment where students can access educational materials, teachers can share academic resources, and guardians can monitor students' academic progress. The platform provides separate user portals to support academic communication, learning material sharing, notice management, and student result monitoring. It was developed as an academic project for the Educational Web Design and Development Lab course during my 3rd Year, 2nd Semester.
 
-Key Features
+**Key Features**
 
-* Separate portals for Students, Teachers, and Guardians
+* Separate portals for Students, Teachers, administrators and Guardians
 * Student and Teacher registration and login
 * Centralized notice system
 * Teacher-uploaded learning materials
@@ -14,26 +13,30 @@ Key Features
 * Result access through Guardian accounts
 * Role-based access to academic information
 
-Technologies Used
+**Technologies Used**
 * HTML
 * CSS
 * PHP
 * Laravel
 * XML
 * JSON
-* MySQL
-* XAMPP
 
-Project Resources
+## Database Management System
+- MySQL
+- phpMyAdmin
+- XAMPP
+
+**Project Resources**
 
 The repository includes the complete source code, database, educational materials, NCTB resources, videos, and other required project files.
 
-Purpose
+**Purpose**
 
 The purpose of "esoShikhi" is to provide a simple and organized digital learning environment where students can access academic resources, teachers can share educational content, and guardians can monitor student performance.
 
-Academic Project
-
+**Academic Project**
 Course: Educational Web Design and Development Lab
 Academic Level: 3rd Year, 2nd Semester
 Project Type: Academic Web Development Project
+
+**Raw code and DB of this projected are also added.**
