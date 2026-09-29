@@ -16,6 +16,7 @@
 ## Technologies Used
 * HTML
 * CSS
+* Boostrapt
 * PHP
 * Laravel
 * XML
