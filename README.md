@@ -33,7 +33,7 @@ The repository includes the complete source code, database, educational material
 
 ## Purpose
 
-The purpose of **"esoShikhi" **is to provide a simple and organized digital learning environment where students can access academic resources, teachers can share educational content, and guardians can monitor student performance.
+The purpose of **"esoShikhi"** is to provide a simple and organized digital learning environment where students can access academic resources, teachers can share educational content, and guardians can monitor student performance.
 
 ## Academic Project
 
